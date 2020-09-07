@@ -5,8 +5,8 @@ Projeto desenvolvido usando [React.js](https://github.com/facebook/create-react-
 Os dados foram obtidos através da API do site [The Movie Database](https://themoviedb.org).
 
 ### Demonstração
-![Página principal 1](https://github.com/SirProxy/ui-netflix-clone/home1.png?raw=true)
-![Página principal 2](https://github.com/SirProxy/ui-netflix-clone/home2.png?raw=true)
+![Página principal 1](https://github.com/SirProxy/ui-netflix-clone/blob/master/home1.png?raw=true)
+![Página principal 2](https://github.com/SirProxy/ui-netflix-clone/blob/master/home2.png?raw=true)
 
 ## Créditos
 
