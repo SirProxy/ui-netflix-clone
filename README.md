@@ -4,7 +4,7 @@
 Projeto desenvolvido usando [React.js](https://github.com/facebook/create-react-app). Esse projeto consiste em um clone da página principal da Netflix.
 Os dados foram obtidos através da API do site [The Movie Database](https://themoviedb.org). 
 
-Para obter os dados dos filmes/séries é necessário adicionar a **API_KEY** que se encontra em ./src/components/Tmdb.js  
+Para obter os dados dos filmes/séries é necessário adicionar a **API_KEY** que se encontra em ./src/Tmdb.js  
 
 ### Demonstração
 ![Página principal 1](https://github.com/SirProxy/ui-netflix-clone/blob/master/home1.png?raw=true)
